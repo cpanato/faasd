@@ -21,7 +21,6 @@ require (
 	github.com/docker/docker-credential-helpers v0.6.3 // indirect
 	github.com/docker/go-events v0.0.0-20170721190031-9461782956ad // indirect
 	github.com/gogo/googleapis v1.2.0 // indirect
-	github.com/golang/groupcache v0.0.0-20191027212112-611e8accdfc9 // indirect
 	github.com/gorilla/mux v1.8.0
 	github.com/imdario/mergo v0.3.9 // indirect
 	github.com/morikuni/aec v1.0.0
@@ -41,10 +40,7 @@ require (
 	github.com/vishvananda/netns v0.0.0-20191106174202-0a2b9b5464df
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
 	go.etcd.io/bbolt v1.3.5 // indirect
-	go.opencensus.io v0.22.2 // indirect
-	golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553 // indirect
-	golang.org/x/sys v0.0.0-20200202164722-d101bd2416d5
-	google.golang.org/genproto v0.0.0-20191216205247-b31c10ee225f // indirect
-	google.golang.org/grpc v1.23.0 // indirect
+	golang.org/x/sys v0.7.0
+	google.golang.org/grpc v1.56.3 // indirect
 	k8s.io/apimachinery v0.18.9
 )
