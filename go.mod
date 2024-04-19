@@ -26,7 +26,7 @@ require (
 	github.com/imdario/mergo v0.3.9 // indirect
 	github.com/morikuni/aec v1.0.0
 	github.com/opencontainers/go-digest v1.0.0-rc1.0.20180430190053-c9281466c8b2 // indirect
-	github.com/opencontainers/image-spec v1.0.1 // indirect
+	github.com/opencontainers/image-spec v1.0.2 // indirect
 	github.com/opencontainers/runc v1.0.0-rc9 // indirect
 	github.com/opencontainers/runtime-spec v1.0.2
 	github.com/openfaas/faas v0.0.0-20201205125747-9bbb25e3c7c4
